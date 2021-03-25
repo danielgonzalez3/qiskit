@@ -1,0 +1,4 @@
+CPU Design Notes:
+  Qiskit Pulse [Part of Qiskit]:
+  Qiskit Pulse provides a language for specifying pulse level control (i.e. control of the continuous time dynamics of input signals) of a general quantum device independent of the specific hardware implementation
+  https://qiskit.org/textbook/ch-quantum-hardware/calibrating-qubits-pulse.html
